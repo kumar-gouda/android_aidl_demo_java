@@ -1,0 +1,7 @@
+<resources>
+    <string name="service_created">Service created.</string>
+    <string name="service_bound">Service bound.</string>
+    <string name="service_unbound">Service unbound.</string>
+    <string name="service_destroyed">Service destroyed.</string>
+    <string name="generated_random_number">Generated random number: %d</string>
+</resources>
